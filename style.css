@@ -1,4 +1,4 @@
-/* nejsme vcerejsi, pouzivame moderni box model */
+
 *,
 ::after,
 ::before {
@@ -30,7 +30,7 @@ body {
   line-height: 1.6;
 }
 
-/* HLAVICKA */
+/* HEADER */
 
 .header {
   background-color: var(--background);
@@ -102,7 +102,7 @@ body {
 
 
 
-/* OBSAH */
+/* CONTENT */
 
 .intro,
 .reason,
@@ -125,7 +125,7 @@ h2::after {
 
 
 
-/* FOTOGALERIE */
+/* PHOTOGALLERY */
 
 .gallery-title {
   text-align: left;
@@ -157,7 +157,7 @@ h2::after {
 }
 
 
-/* PATICKA */
+/* FOOTER */
 
 .img-content,
 .description,
